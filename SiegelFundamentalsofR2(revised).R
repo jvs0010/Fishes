@@ -15,3 +15,6 @@ for(y in 1:length( i[ ,y] )){
   avgrow[y] <- matrixmean(i[y,])
 }
 avgrow #Question 7
+i
+avgrow
+#another line of code
