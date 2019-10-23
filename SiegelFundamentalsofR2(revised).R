@@ -18,3 +18,8 @@ avgrow #Question 7
 i
 avgrow
 #another line of code
+
+avgrow - y
+avgrow[2] - y
+#Making Changes!!
+#and another
